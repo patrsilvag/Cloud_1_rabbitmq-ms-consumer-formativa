@@ -103,7 +103,7 @@
             <artifactId>spring-rabbit-test</artifactId>
             <scope>test</scope>
         </dependency>
-
+ 
     </dependencies>
 
     <build>

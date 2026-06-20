@@ -22,3 +22,4 @@ public class RabbitMQConsumer {
         service.guardarMensaje(mensaje);
     }
 }
+ 
